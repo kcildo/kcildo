@@ -14,8 +14,6 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
 </div>
-    
-    ##
  
 <div> 
   <a href="https://www.instagram.com/acacio_novoa/" target="_blank"><img align= "center" src="https://img.shields.io/badge/Instagram-993399?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
