@@ -17,7 +17,7 @@
  
 ##
   
-<div> 
+<div align="center"> 
   <a href="https://www.instagram.com/acacio_novoa/" target="_blank"><img align= "center" src="https://img.shields.io/badge/Instagram-993399?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:acaciomonteiro5@uff.id.br"><img align= "center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/acacionovoa/" target="_blank"><img align= "center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
